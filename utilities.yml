@@ -1,0 +1,25 @@
+name: utilities
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2023.12.12
+  - expat=2.5.0
+  - libffi=3.4.4
+  - openssl=3.0.13
+  - pip=23.3.1
+  - python=3.12.1
+  - setuptools=68.2.2
+  - sqlite=3.41.2
+  - tk=8.6.12
+  - tzdata=2023d
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.41.2
+  - xz=5.4.5
+  - zlib=1.2.13
+  - pip:
+      - pdfmerger==0.5.0
+      - pypdf2==3.0.1
+      - pyqrcode==1.2.1
+prefix: C:\Users\danie\miniconda3\envs\utilities
