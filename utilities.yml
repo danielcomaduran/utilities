@@ -19,7 +19,13 @@ dependencies:
   - xz=5.4.5
   - zlib=1.2.13
   - pip:
+      - certifi==2024.8.30
+      - charset-normalizer==3.4.0
+      - idna==3.10
       - pdfmerger==0.5.0
       - pypdf2==3.0.1
       - pyqrcode==1.2.1
+      - pyshorteners==1.0.1
+      - requests==2.32.3
+      - urllib3==2.2.3
 prefix: C:\Users\danie\miniconda3\envs\utilities
